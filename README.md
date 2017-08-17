@@ -1,2 +1,3 @@
 # menu-digital
-Menu digital usado como propaganda interna em estabelecimentos
+Smart Peeper - Sistema para propaganda digital 
+http://www.smartpeeper.com.br/
